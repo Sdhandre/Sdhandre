@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Sujal Dhandre! 👋
+I'm a passionate developer and data enthusiast from India 🇮🇳, constantly exploring new technologies and building meaningful projects.
 
-<!--
-**Sdhandre/Sdhandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 Final-year Engineering Student
 
-Here are some ideas to get you started:
+🧠 Passionate about Data Science, Machine Learning, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+
+Movie Recommender System
+
+Plant Disease Detection using CNN
+
+Car Number Plate Detection
+
+🌱 Currently learning: Deep Learning, Data Structures & Algorithms (DSA)
+
+✍️ I also enjoy mentoring juniors and leading technical initiatives at my college
