@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Movie Recommender System**
 
+- Worked on **Plant Disease Detection System**
+
 - 🌱 I’m currently learning **Currently learning: Deep Learning, Data Structures & Algorithms (DSA)**
 
 - 💬 Ask me about **Tensorflow, CNN**
